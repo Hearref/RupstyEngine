@@ -1,11 +1,11 @@
 ***v1.2.0 - Renkli Dünya Güncellemesi***
 
 $100060255**GÖRSEL YENİLİKLER**$
-* *Zengin Metin:* Artık notlarda renk kullanabiliyoruz!
-* *Arayüz:* Launcher artık çok daha canlı ve animasyonlu.
+*Zengin Metin:* Artık notlarda renk kullanabiliyoruz!
+*Arayüz:* Launcher artık çok daha canlı ve animasyonlu.
 
 $255100000**ÖNEMLİ DÜZELTMELER**$
-* ~Bağlantı hataları~ tamamen giderildi.
-* _Sıkıştırma_ sayesinde Launcher boyutu %50 küçültüldü.
+~Bağlantı hataları~ tamamen giderildi.
+_Sıkıştırma_ sayesinde Launcher boyutu %50 küçültüldü.
 
 $000200050-*Keyifli oyunlar dileriz!*-
